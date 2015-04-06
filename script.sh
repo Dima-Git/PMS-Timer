@@ -17,4 +17,3 @@ echo 2000 > /sys/timer_dir/timer_period
 sleep 3
 
 sudo rmmod timer_sysfs
-
